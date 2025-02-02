@@ -9,3 +9,5 @@ Smart-SOPT progress
   - Java
 # Front End
   - React
+# Development
+  - Flask
